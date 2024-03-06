@@ -1,0 +1,3 @@
+(function() {var implementors = {
+"mp_lab_ii":[["impl <a class=\"trait\" href=\"https://doc.rust-lang.org/1.76.0/core/marker/trait.Copy.html\" title=\"trait core::marker::Copy\">Copy</a> for <a class=\"struct\" href=\"mp_lab_ii/lr_5/graph_a/struct.Edge.html\" title=\"struct mp_lab_ii::lr_5::graph_a::Edge\">Edge</a>"],["impl <a class=\"trait\" href=\"https://doc.rust-lang.org/1.76.0/core/marker/trait.Copy.html\" title=\"trait core::marker::Copy\">Copy</a> for <a class=\"struct\" href=\"mp_lab_ii/lr_5/graph_b/struct.Edge.html\" title=\"struct mp_lab_ii::lr_5::graph_b::Edge\">Edge</a>"]]
+};if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

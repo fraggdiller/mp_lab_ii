@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"mod":["graph_a","graph_b","test_graph_a","test_graph_b"]};
